@@ -115,7 +115,7 @@
     "node-notifier": "^4.6.0",
     "normalize.css": "^3.0.3",
     "open": "0.0.5",
-    "openpgp": "^2.2.1",
+    "openpgp": "^4.10.7",
     "os": "^0.1.0",
     "react": "^15.0.2",
     "react-copy-to-clipboard": "^4.1.0",
