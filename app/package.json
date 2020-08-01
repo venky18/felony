@@ -3,6 +3,6 @@
   "productName": "Felony",
   "version": "0.10.3",
   "dependencies": {
-    "openpgp": "^2.2.1"
+    "openpgp": "^4.10.7"
   }
 }
